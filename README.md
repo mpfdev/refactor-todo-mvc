@@ -1,3 +1,7 @@
+<h1 align="center">
+<img alt="Router - MDN" src="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes/mvc_express.png">
+</h1>
+
 <h1 align="center">Todo List</h1>
 
 <p align="center">Refactoring a Todo List with MVC's architecture</p>
