@@ -18,8 +18,8 @@
 - [x] Folder Structures
 - [ ] Model Structure
 - [ ] View Structure
-- [ ] Controller Structure
-- [ ] HTTP set
+- [x] Controller Structure
+- [x] HTTP set
 - [x] Packages Loaded
 
 ### Install
@@ -32,10 +32,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone xxxx
+$ git clone https://github.com/mpfdev/refactor-todo-mvc.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd refactorTodo
+$ cd refactor-todo-mvc
 
 # Instale as dependências
 $ npm install
