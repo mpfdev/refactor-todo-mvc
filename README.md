@@ -31,19 +31,19 @@
 ### 🎲 Running the server
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/mpfdev/refactor-todo-mvc.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Acess the project folder
 $ cd refactor-todo-mvc
 
-# Instale as dependências
+# Install the dependecies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm start
+# Run the application
+$ node server.js
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# The server will run on port:3000 - <http://localhost:3000>
 ```
 
 ### 🛠 Technologies
